@@ -13,7 +13,7 @@
 ![Animations](https://img.shields.io/badge/Animations-GSAP%20%2B%20Lottie-purple)
 
 ## ✨ **Live Demo**
-🌐 **[Experience the Dashboard Live](https://satyampandey-07.github.io/weather-dashboard/)** 
+🌐 **[Experience the Dashboard Live](https://nishika91.github.io/weather-dashboard/)** 
 
 🎥 **[Watch Live Demo Video](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)** - See all features in action!
 
