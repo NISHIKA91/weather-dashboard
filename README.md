@@ -578,10 +578,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Created By**
 
-**Satyam Pandey** - *Full Stack Developer*
+**NISHITA PATHAK** - *Full Stack Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SatyamPandey-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-pandey-0b246432a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/NISHIKA91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishika-pathak-904419322/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -594,6 +594,6 @@ If you found this project helpful, please consider:
 
 ---
 
-**Made with ❤️ and lots of ☕ by Satyam Pandey**
+**Made with ❤️ and lots of ☕ by NISHITA PATHAK**
 
 *Bringing weather data to life with modern design and seamless user experience.*
