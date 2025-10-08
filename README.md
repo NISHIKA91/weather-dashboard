@@ -589,6 +589,6 @@ If you found this project helpful, please consider:
 
 ---
 
-**Made with ❤️ and lots of ☕ by NISHITA PATHAK**
+**Made with ❤️ and lots of ☕ by Nishika Pathak**
 
 *Bringing weather data to life with modern design and seamless user experience.*
