@@ -573,7 +573,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Created By**
 
-**NISHITA PATHAK** - *Full Stack Developer*
+**Nishika Pathak** - *Full Stack Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/NISHIKA91)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishika-pathak-904419322/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
